@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-module.exports.ResourceManagerController = class {
+module.exports.SolutionManagerController = class {
     constructor(url) {
         this.url = url;
         if (!this.url.startsWith('http://')) {
