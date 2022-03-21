@@ -1,0 +1,1 @@
+module.exports = require('./src/solution_manager_controller')

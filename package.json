@@ -1,0 +1,11 @@
+{
+  "name": "solution_manager_controller",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
